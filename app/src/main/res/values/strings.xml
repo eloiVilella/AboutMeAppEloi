@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Eloi Vilella</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio"><![CDATA[Hi, my name is Eloi.
+    \n\nI love living in nature caring animals.
+    \n\n I like sports and programming.
+    \n\nI love living in nature caring animals.
+    \n\n I like sports and programming.]]>
+    \n\nI love living in nature caring animals.
+    \n\n I like sports and programming.
+    \n\nI love living in nature caring animals.
+    \n\n I like sports and programming.
+    \n\nI love living in nature caring animals.
+    \n\n I like sports and programming.
+    \n\nI love living in nature caring animals.
+    \n\n I like sports and programming.
+    \n\nI love living in nature caring animals.
+    \n\n I like sports and programming.
+    \n\nI love living in nature caring animals.
+    \n\n I like sports and programming.
+    \n\nI love living in nature caring animals.
+    \n\n I like sports and programming.</string>
+    <string name="avatar">Avatar image</string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
